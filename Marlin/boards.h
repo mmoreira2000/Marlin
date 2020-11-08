@@ -53,6 +53,7 @@
 // RAMPS Derivatives - ATmega1280, ATmega2560
 //
 
+#define BOARD_KFB_2             369   // BIgtreetech/BIQU KFB 2.0 (Power outputs: Bed, Hotend0, Hotend1, Fan)
 #define BOARD_3DRAG             77    // 3Drag Controller
 #define BOARD_K8200             78    // Velleman K8200 Controller (derived from 3Drag Controller)
 #define BOARD_K8400             79    // Velleman K8400 Controller (derived from 3Drag Controller)
