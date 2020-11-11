@@ -136,6 +136,8 @@
   #include "pins_MAKEBOARD_MINI.h"    // ATmega2560                                 env:megaatmega2560
 #elif MB(KFB_2)
   #include "pins_KFB_2.h"             // ATmega2560                                 env:megaatmega2560
+#elif MB(BIQU_KFB_2)
+  #include "pins_BIQU_KFB_2.h"        // ATmega2560                                 env:megaatmega2560
 #elif MB(TRIGORILLA_13)
   #include "pins_TRIGORILLA_13.h"     // ATmega2560                                 env:megaatmega2560
 #elif MB(TRIGORILLA_14)
